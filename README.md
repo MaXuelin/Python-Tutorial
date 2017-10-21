@@ -1,3 +1,2 @@
 # Python-Tutorial
-Python programming skills
-Writing in Chinese.
+Python programming skills. The tutorial is written in Chinese.
